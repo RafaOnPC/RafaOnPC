@@ -22,9 +22,9 @@ My experience combines software development and data analysis, allowing me to ap
 
 I have worked on projects where I optimized data workflows, significantly reducing processing times and improving reporting efficiency. Through data cleaning, transformation, and analysis, I aim to ensure data quality and reliability as a foundation for meaningful insights.
 
-<p>🔹 Tech Stack: Python (Pandas, NumPy), SQL, Power BI, Excel </p>
 <p>🔹 Core Skills: Data Analysis, ETL Processes, Data Cleaning, Data Visualization, Process Automation </p>
 <p>🔹 Additional Knowledge: Data Transformation, Data Modeling, Data Integration, Data Preparation, Data Quality Management </p>
+<p>🔹 Analytical Skills: Problem Solving, Data Interpretation, Insight Generation, Critical Thinking, Data-Driven Decision Making</p>
 
 I’m passionate about continuous learning and currently expanding my knowledge in Big Data technologies and Machine Learning to further enhance my analytical capabilities.
 
@@ -58,17 +58,17 @@ I’m passionate about continuous learning and currently expanding my knowledge 
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"> 
 </span>  
 
-<h4>🤖 Artificial Intelligence</h4>
-<span>
-  <img src="https://img.shields.io/badge/mistralai-FA520F?style=for-the-badge&logo=mistralai&logoColor=white">
-  <img src="https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white">
-</span>  
-
 <h4>🕓 Version Control</h4>
 <span>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white">
+</span>  
+
+<h4>🤖 Artificial Intelligence</h4>
+<span>
+  <img src="https://img.shields.io/badge/mistralai-FA520F?style=for-the-badge&logo=mistralai&logoColor=white">
+  <img src="https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white">
 </span>  
 
 
